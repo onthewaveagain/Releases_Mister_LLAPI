@@ -5,12 +5,19 @@ This has been done during my spare time. I still need to figure out how to autom
 
 If you want to contribute, please contact me.
 
+## How to install
+
 * Place the content of _LLAPI into the _LLAPI folder on your SD card
 
 ## Features
 
-* Started to improve LLAPI code documentation
 * Improved some controllers mapping
 * New Donkey Kong Arcade core supporting MRAs
 * All cores have been updated to include all features developped during Q4 2021
-* Future plans : LLAPIze more cores including the upcoming PS1, Saturn and Arcade cores. LLAPIze the Controller Test core and enrich its functionalities to enable BliSTer firmware updates and configuration
+
+## Future plans
+
+* "Reverse engineer" LLAPI implementation and improve code documentation
+* Create an update_llapi.sh script
+* LLAPIze more cores including the upcoming PS1, Saturn and Arcade cores...
+* LLAPIze Controller Test core and enrich its functionalities to enable BliSTer firmware updates and configuration
