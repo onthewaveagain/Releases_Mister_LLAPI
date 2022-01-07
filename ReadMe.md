@@ -24,6 +24,7 @@ Arcade (MRA support)
 
 * Pacman             : https://github.com/onthewaveagain/Arcade-Pacman_MiSTer_LLAPI
 * Donkey Kong        : https://github.com/onthewaveagain/Arcade-DonkeyKong_MiSTer_LLAPI
+* IremM62            : https://github.com/onthewaveagain/Arcade-IremM62_MiSTer_LLAPI
 
 ## How to install
 
