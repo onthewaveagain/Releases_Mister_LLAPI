@@ -37,9 +37,9 @@ Arcade (MRA support)
 
 ## Future plans
 
-* "Reverse engineer" LLAPI implementation and improve code documentation
-* Create an update_llapi.sh script
+* "Industrialize" release process including an custom update_llapi.sh script
+* "Reverse engineer" LLAPI implementation and improve code documentation (started with GB core and need to extend this as some cores also have a specific LLAPI implementation)
 * LLAPIze more cores including consoles, upcoming PS1 and Saturn, Arcade and Computer cores...
-* Add Paddle support for Master System core
+* Add Paddle support to Master System core
 * Add fast polling mode for nes zapper
 * LLAPIze Controller Test core and enrich its functionalities to enable BliSTer firmware updates and configuration
