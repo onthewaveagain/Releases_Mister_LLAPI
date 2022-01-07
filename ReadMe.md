@@ -32,12 +32,14 @@ Arcade (MRA support)
 ## Features
 
 * Improved some controllers mapping
-* New Donkey Kong Arcade core supporting MRAs
+* New Arcade core with MRAs support
 * All cores have been updated to include all features developped during Q4 2021
 
 ## Future plans
 
 * "Reverse engineer" LLAPI implementation and improve code documentation
 * Create an update_llapi.sh script
-* LLAPIze more cores including the upcoming PS1, Saturn and Arcade cores...
+* LLAPIze more cores including consoles, upcoming PS1 and Saturn, Arcade and Computer cores...
+* Add Paddle support for Master System core
+* Add fast polling mode for nes zapper
 * LLAPIze Controller Test core and enrich its functionalities to enable BliSTer firmware updates and configuration
