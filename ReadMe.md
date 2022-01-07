@@ -20,7 +20,7 @@ Consoles
 * Neo Geo            : https://github.com/onthewaveagain/NeoGeo_MiSTer_LLAPI
 * Turbografx16       : https://github.com/onthewaveagain/TurboGrafx16_MiSTer_LLAPI
 
-Aracade
+Arcade (MRA support)
 
 * Pacman             : https://github.com/onthewaveagain/Arcade-Pacman_MiSTer_LLAPI
 * Donkey Kong        : https://github.com/onthewaveagain/Arcade-DonkeyKong_MiSTer_LLAPI
