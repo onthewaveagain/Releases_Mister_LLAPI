@@ -5,12 +5,25 @@ This has been done during my spare time. I still need to figure out how to autom
 
 If you want to contribute, please contact me.
 
-## Cores
+## Cores source code
 
-* Gameboy https://github.com/onthewaveagain/Gameboy_MiSTer_LLAPI
-* Gameboy Advance https://github.com/onthewaveagain/GBA_MiSTer_LLAPI
+Consoles
 
+* Gameboy            : https://github.com/onthewaveagain/Gameboy_MiSTer_LLAPI
+* Gameboy Advance    : https://github.com/onthewaveagain/GBA_MiSTer_LLAPI
+* Gameboy Advance 2P : https://github.com/onthewaveagain/GBA_MiSTer_LLAPI/tree/GBA2P
+* Super Nintendo     : https://github.com/onthewaveagain/SNES_MiSTer_LLAPI
+* NES                : https://github.com/onthewaveagain/NES_MiSTer_LLAPI
+* Genesis            : https://github.com/onthewaveagain/Genesis_MiSTer_LLAPI
+* Sega CD            : https://github.com/onthewaveagain/MegaCD_MiSTer_LLAPI
+* Master System      : https://github.com/onthewaveagain/SMS_MiSTer_LLAPI
+* Neo Geo            : https://github.com/onthewaveagain/NeoGeo_MiSTer_LLAPI
+* Turbografx16       : https://github.com/onthewaveagain/TurboGrafx16_MiSTer_LLAPI
 
+Aracade
+
+* Pacman             : https://github.com/onthewaveagain/Arcade-Pacman_MiSTer_LLAPI
+* Donkey Kong        : https://github.com/onthewaveagain/Arcade-DonkeyKong_MiSTer_LLAPI
 
 ## How to install
 
