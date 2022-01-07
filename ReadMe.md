@@ -5,6 +5,13 @@ This has been done during my spare time. I still need to figure out how to autom
 
 If you want to contribute, please contact me.
 
+## Cores
+
+* Gameboy https://github.com/onthewaveagain/Gameboy_MiSTer_LLAPI
+* Gameboy Advance https://github.com/onthewaveagain/GBA_MiSTer_LLAPI
+
+
+
 ## How to install
 
 * Place the content of _LLAPI into the _LLAPI folder on your SD card
