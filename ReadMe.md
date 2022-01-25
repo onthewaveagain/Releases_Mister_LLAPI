@@ -22,9 +22,10 @@ Consoles
 
 Arcade (MRA support)
 
-* Pacman             : https://github.com/onthewaveagain/Arcade-Pacman_MiSTer_LLAPI
-* Donkey Kong        : https://github.com/onthewaveagain/Arcade-DonkeyKong_MiSTer_LLAPI
-* IremM62            : https://github.com/onthewaveagain/Arcade-IremM62_MiSTer_LLAPI
+* Pacman              : https://github.com/onthewaveagain/Arcade-Pacman_MiSTer_LLAPI
+* Donkey Kong         : https://github.com/onthewaveagain/Arcade-DonkeyKong_MiSTer_LLAPI
+* Irem M62            : https://github.com/onthewaveagain/Arcade-IremM62_MiSTer_LLAPI
+* Sega System 1       : https://github.com/onthewaveagain/Arcade-SEGASYS1_MiSTer_LLAPI
 
 ## How to install
 
