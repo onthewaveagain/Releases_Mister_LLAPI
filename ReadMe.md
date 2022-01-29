@@ -19,6 +19,7 @@ Consoles
 * Master System      : https://github.com/onthewaveagain/SMS_MiSTer_LLAPI
 * Neo Geo            : https://github.com/onthewaveagain/NeoGeo_MiSTer_LLAPI
 * Turbografx16       : https://github.com/onthewaveagain/TurboGrafx16_MiSTer_LLAPI
+* Atari 7800         : https://github.com/onthewaveagain/Atari7800_MiSTer_LLAPI
 
 Arcade (MRA support)
 
