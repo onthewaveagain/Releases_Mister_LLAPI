@@ -1,3 +1,4 @@
+!!! Note : Merging this work with the Official LLAPI repository here : https://github.com/MiSTer-LLAPI/LLAPI_folder_MiSTer/tree/main/_LLAPI
 
 This is an alternative repository to the official MiSTer LLAPI repository.
 It is a fork of MiSTer official cores. LLAPI implementation has been ported from the original LLAPI github.
